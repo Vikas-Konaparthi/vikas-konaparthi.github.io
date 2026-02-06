@@ -94,6 +94,8 @@ theme_mode: dark
 # Notice that once it is assigned, the CDN url
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
+
+avatar: https://imgs.search.brave.com/UtpHqmTzocMYQ-pINjIEc0FaQpfNDuNUR0ROJWoWtq8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNjU4/NjE4MzQ4L3ZlY3Rv/ci9pc29tZXRyaWMt/bGV0dGVyLWgtcGVy/c3BlY3RpdmUtaGlw/c3Rlci1tb25vZ3Jh/bS1zaW1wbGUtbGlu/ZWFyLXR5cG9ncmFw/aHktYmxhY2stYW5k/LXdoaXRlLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1ieEo0/LWtqcy1OYXdxeGRy/U0F6Z2pOOUczQlNp/QnFJOERicG1Rb3pF/Qk5RPQ
 # e.g. 'https://cdn.com'
 cdn:
 
