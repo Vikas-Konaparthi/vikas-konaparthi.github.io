@@ -1,3 +1,9 @@
+---
+layout: archives
+icon: fas fa-archive
+order: 5
+---
+
 # Hilaight
 
 > Where ideas are not just read — they are explored.
