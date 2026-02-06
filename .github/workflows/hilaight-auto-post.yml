@@ -1,5 +1,7 @@
 name: Hilaight AI Daily Post
 
+permissions:
+  contents: write
 on:
   schedule:
     - cron: "0 4 * * *"  # Runs daily at 4 AM UTC
