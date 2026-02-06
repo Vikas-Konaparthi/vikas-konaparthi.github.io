@@ -20,9 +20,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip uninstall -y google-generativeai || true
           pip install --upgrade pip
-          pip install google-genai requests feedparser
+          pip install requests feedparser
 
       - name: Run generator
         env:
