@@ -25,11 +25,9 @@ description: >- # used by seo meta and the atom feed
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: ""
 
-github:
-  username: vikas.konaparthi # change to your GitHub username
+github: ""
 
-twitter:
-  username:  # change to your Twitter username
+twitter: ""
 
 social:
   # Change to your full name.
@@ -39,7 +37,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/vikas.konaparthi # change to your GitHub homepage
+    #- https://github.com/vikas.konaparthi # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -150,7 +148,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "www.hilaight.com"
 
 # ------------ The following options are not recommended to be modified ------------------
 
